@@ -22,4 +22,4 @@
 22. Print PASCAL triangles.
 23. Remove the character of odd index value in a string.
 24. Take two strings and display the larger string without using build in function or method.
-25. Count occurances of each wordr in a string.
+25. Count occurances of each word in a string.
