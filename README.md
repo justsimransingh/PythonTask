@@ -20,4 +20,6 @@
 20. Convert numbers into words upto 100.
 21. Generate all the divisors(factors) of a integer.
 22. Print PASCAL triangles.
-23. 
+23. Remove the character of odd index value in a string.
+24. Take two strings and display the larger string without using build in function or method.
+25. Count occurances of each wordr in a string.
