@@ -17,9 +17,7 @@
 17. Add two Binary numbers.
 18. Enter 3 digits and print all possible combinations.
 19. Find sum of digits a number.
-20. Convert numbers into words upto 100.
-21. Generate all the divisors(factors) of a integer.
-22. Print PASCAL triangles.
-23. Remove the character of odd index value in a string.
-24. Take two strings and display the larger string without using build in function or method.
-25. Count occurances of each word in a string.
+20. Generate all the divisors(factors) of a integer.
+21. Remove the character of odd index value in a string.
+22. Take two strings and display the larger string without using build in function or method.
+23. Count occurances of each word in a string.
